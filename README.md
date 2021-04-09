@@ -1,7 +1,7 @@
 # treeChart
 树状流程图实现
 
-![概图](C:\Users\Administrator\Desktop\新建文件夹 (3)\概图.png)
+![概图](https://github.com/chk4658/treeChart/blob/master/%E6%A6%82%E5%9B%BE.png)
 
 card  hover时显示新增删除按钮，进出动画ease，
 
